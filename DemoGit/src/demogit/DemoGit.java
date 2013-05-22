@@ -15,8 +15,7 @@ public class DemoGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //Comment 3333
-        //Branch2
+
         System.out.println("Hello");
     }
 }
